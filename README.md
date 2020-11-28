@@ -13,9 +13,13 @@ MF也经历了几个版本的迭代，有些介绍性文章已经甚至是作者
 - [module-federation-examples]
   - MF作者创建和维护的MF使用示例，更新及时，用例丰富，非常好的参考资料
 
-- [mfe-webpack-demo](https://github.com/ScriptedAlchemy/mfe-webpack-demo/tree/master/packages)
+- [angular11-microfrontends](https://github.com/module-federation/module-federation-examples/blob/master/angular11-microfrontends/projects/mdmf-shell/src/app/utils/federation-utils.ts)
+  - [module-federation-examples]中angular11微前端示例
+  - 把这个单独拉出来是因为这个示例展示了如何在运行时动态加载remote module
+
+- ~~[mfe-webpack-demo](https://github.com/ScriptedAlchemy/mfe-webpack-demo/tree/master/packages)~~
   - MF作者创建的基于MF，简单的微前端架构
-  - 配置已过时
+  - 配置已过时，但对想要基于MF做微前端的有一定参考意义
 
 
 - [MF Proposal](https://github.com/webpack/webpack/issues/10352)
