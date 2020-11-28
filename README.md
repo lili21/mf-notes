@@ -28,8 +28,8 @@
   - 有点晦涩，概念上的讲解
 
 - [MF插件中shared配置的详细说明](https://github.com/webpack/webpack.js.org/issues/3757)
-  - [module-federation-examples]中会有复杂的shared配置，比如`singleton`, `version`等
-  - 这个issue是webpack作者提交的，对于shared配置有详细说明
+  - [module-federation-examples]中会有复杂的`shared`配置，比如`singleton`, `version`等
+  - 这个issue是webpack作者提交的，对于`shared`配置有详细说明
 
 
 [module-federation-examples]: https://github.com/module-federation/module-federation-examples
