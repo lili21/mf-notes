@@ -1,17 +1,15 @@
 # module federation
 > 学习过程中收集的一些资料
 
-MF也经历了几个版本的迭代，有些介绍性文章已经甚至是作者的文章已经过时，不在可用，而官方性的文档又太过简陋了，导致了学习成本
-
 - ~~[作者写的介绍文章](https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture)~~
-  - 已过时，无法正常运行
+  - 配置已过时，无法在新版wepback5中运行
   - `exposes`中的`key`需要以相对路径开头
 
 - [作者写的介绍文章](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
   - 可正常运行
 
 - [module-federation-examples]
-  - MF作者创建和维护的MF使用示例，更新及时，用例丰富，非常好的参考资料
+  - MF作者创建和维护的示例，更新及时，用例丰富，非常好的参考资料
 
 - [angular11-microfrontends](https://github.com/module-federation/module-federation-examples/blob/master/angular11-microfrontends/projects/mdmf-shell/src/app/utils/federation-utils.ts)
   - [module-federation-examples]中angular11微前端示例
