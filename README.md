@@ -31,5 +31,8 @@
   - [module-federation-examples]中会有复杂的`shared`配置，比如`singleton`, `version`等
   - 这个issue是webpack作者提交的，对于`shared`配置有详细说明
 
+- [MF作者分享](https://www.youtube.com/watch?v=-ei6RqZilYI)
+  - 讲了一些内部架构，原理
+  - 正在做的事情，即将支持的特性
 
 [module-federation-examples]: https://github.com/module-federation/module-federation-examples
